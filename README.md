@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Syler0x26/Syler0x26/output/snake.svg" alt="Snake animation" />
+<img src="cobra.yml" alt="Snake animation" />
 
 ###
 
