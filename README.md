@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<img src="cobra.yml" alt="Snake animation" />
+<img src="[cobra.yml](https://github.com/syler0x26/Wesley-Marcelino/blob/main/cobra.yml)" alt="Snake animation" />
 
 ###
 
